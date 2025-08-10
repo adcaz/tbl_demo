@@ -1,14 +1,10 @@
 import streamlit as st
-import pandas as pd
 
 
-# load csv (;) into df
-# @st.cache_data
-def load_data():
-    df = pd.read_csv("lorem_data.csv", sep=';')
-    return df
+pg = st.navigation([
+    # st.Page("pages/public_source.py", title="Public Source"),
+    st.Page("pages/protected_user.py", title="Lecture seulement", icon=":material/lock:"),
+    st.Page("pages/protected_admin.py", title="Lecture et écriture", icon=":material/lock_open:"),
+])
 
-data = load_data()
-
-
-st.dataframe(data, hide_index=True, use_container_width=True)
+pg.run()

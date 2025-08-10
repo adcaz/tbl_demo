@@ -1,5 +1,8 @@
 *.xlsx
+.streamlit/
 .DS_Store
+playground.py
+gen_hash.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

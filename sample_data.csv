@@ -1,0 +1,121 @@
+Category;Subcategory;Item Name;Item ID;Description;Price ($);Quantity;Supplier;Region;Date Added;Rating;Stock Status
+Beauty;Skin Care;Skin Care Model 125;5d8639ca;A high-quality skin care suitable for everyday use.;1114,91;125;Initech;Europe;2025-01-24;1,4;In Stock
+Beauty;Skin Care;Skin Care Model 704;25e84ba4;A high-quality skin care suitable for everyday use.;638,66;15;Globex Corp;Europe;2023-08-27;3;In Stock
+Electronics;Laptops;Laptops Model 833;181b64e8;A high-quality laptops suitable for everyday use.;978,33;279;Hooli;Europe;2024-04-04;3,4;In Stock
+Electronics;Laptops;Laptops Model 814;aea484d4;A high-quality laptops suitable for everyday use.;639,7;142;Initech;Europe;2025-02-20;2,3;In Stock
+Electronics;Cameras;Cameras Model 199;8213fffe;A high-quality cameras suitable for everyday use.;544,88;176;Vandelay Industries;Asia-Pacific;2025-04-06;1,2;In Stock
+Toys & Games;Board Games;Board Games Model 487;80dcf786;A high-quality board games suitable for everyday use.;127,41;150;Stark Supply;Middle East & Africa;2025-06-25;4,4;In Stock
+Books;Non_Fiction;Non_Fiction Model 821;70269686;A high-quality non_fiction suitable for everyday use.;113,64;338;Initech;Asia-Pacific;2023-03-23;4,4;In Stock
+Electronics;Cameras;Cameras Model 384;51193083;A high-quality cameras suitable for everyday use.;685,58;427;Umbrella Ltd;Europe;2024-01-15;2,4;In Stock
+Beauty;Hair Care;Hair Care Model 818;63ccafb7;A high-quality hair care suitable for everyday use.;1405,62;331;Globex Corp;Middle East & Africa;2024-10-12;1,7;In Stock
+Beauty;Makeup;Makeup Model 267;3c2165c6;A high-quality makeup suitable for everyday use.;698,77;138;Stark Supply;Middle East & Africa;2023-08-13;3,7;In Stock
+Electronics;Laptops;Laptops Model 941;6aea5d58;A high-quality laptops suitable for everyday use.;57,83;161;Hooli;Asia-Pacific;2023-03-09;1,8;In Stock
+Books;Children;Children Model 317;013c344d;A high-quality children suitable for everyday use.;986,6;202;Stark Supply;Latin America;2023-05-27;2,1;In Stock
+Home & Kitchen;Furniture;Furniture Model 864;9042cb93;A high-quality furniture suitable for everyday use.;881,03;459;Vandelay Industries;Latin America;2024-01-06;1,9;In Stock
+Home & Kitchen;Bedding;Bedding Model 193;c113eb3f;A high-quality bedding suitable for everyday use.;1136,12;440;Globex Corp;Europe;2024-10-04;1,6;In Stock
+Beauty;Fragrances;Fragrances Model 710;bf9d69f1;A high-quality fragrances suitable for everyday use.;104,66;195;Vandelay Industries;Latin America;2024-06-25;2;In Stock
+Books;Fiction;Fiction Model 796;8ccb6f3f;A high-quality fiction suitable for everyday use.;1083,88;349;Vandelay Industries;Asia-Pacific;2025-02-26;3,6;In Stock
+Electronics;Headphones;Headphones Model 545;7fc97b59;A high-quality headphones suitable for everyday use.;245,66;1;Stark Supply;Asia-Pacific;2024-05-27;4;In Stock
+Books;Fiction;Fiction Model 991;49328601;A high-quality fiction suitable for everyday use.;941,7;430;Stark Supply;Middle East & Africa;2024-09-15;1,8;In Stock
+Sports & Outdoors;Camping Gear;Camping Gear Model 652;a93d90e9;A high-quality camping gear suitable for everyday use.;1430,71;472;Vandelay Industries;North America;2024-09-05;2,3;In Stock
+Electronics;Smartphones;Smartphones Model 471;161c7832;A high-quality smartphones suitable for everyday use.;1319,3;425;Umbrella Ltd;Europe;2023-03-01;2;In Stock
+Books;Fiction;Fiction Model 187;1145d089;A high-quality fiction suitable for everyday use.;1100,54;417;Globex Corp;Middle East & Africa;2025-02-23;1,5;In Stock
+Beauty;Fragrances;Fragrances Model 662;87315335;A high-quality fragrances suitable for everyday use.;256,04;270;Vandelay Industries;Latin America;2023-08-05;4,7;In Stock
+Beauty;Makeup;Makeup Model 830;27abf9b5;A high-quality makeup suitable for everyday use.;474,46;343;Stark Supply;Asia-Pacific;2024-03-24;4,6;In Stock
+Toys & Games;Board Games;Board Games Model 353;c52158af;A high-quality board games suitable for everyday use.;344,8;173;Globex Corp;Middle East & Africa;2024-07-21;1,9;In Stock
+Home & Kitchen;Cookware;Cookware Model 172;86fc3caf;A high-quality cookware suitable for everyday use.;1064,68;30;Initech;North America;2025-07-16;1,1;In Stock
+Sports & Outdoors;Fitness Equipment;Fitness Equipment Model 626;09554a5d;A high-quality fitness equipment suitable for everyday use.;364,63;342;Hooli;Europe;2024-07-06;1,5;In Stock
+Books;Comics;Comics Model 348;d01c0047;A high-quality comics suitable for everyday use.;1179,08;413;Hooli;Europe;2023-04-07;1,4;In Stock
+Toys & Games;Puzzles;Puzzles Model 533;f5770f8b;A high-quality puzzles suitable for everyday use.;622,54;442;Stark Supply;North America;2024-11-20;3,6;In Stock
+Beauty;Skin Care;Skin Care Model 162;4f3ddf34;A high-quality skin care suitable for everyday use.;609,91;173;Globex Corp;Europe;2023-07-16;1,8;In Stock
+Toys & Games;Action Figures;Action Figures Model 532;5e59ccf3;A high-quality action figures suitable for everyday use.;283,4;236;Initech;North America;2024-03-29;4,2;In Stock
+Books;Fiction;Fiction Model 151;3626b3c2;A high-quality fiction suitable for everyday use.;981,7;276;Globex Corp;North America;2025-02-10;4,4;In Stock
+Home & Kitchen;Bedding;Bedding Model 597;24fd2587;A high-quality bedding suitable for everyday use.;727,22;442;Hooli;North America;2023-06-18;2,5;In Stock
+Toys & Games;Puzzles;Puzzles Model 902;a7bca8ab;A high-quality puzzles suitable for everyday use.;1179,84;146;Hooli;Middle East & Africa;2024-11-08;3,9;In Stock
+Home & Kitchen;Appliances;Appliances Model 403;3e4a577c;A high-quality appliances suitable for everyday use.;334,37;29;Vandelay Industries;Middle East & Africa;2023-03-04;4;In Stock
+Electronics;Smartphones;Smartphones Model 698;debef567;A high-quality smartphones suitable for everyday use.;720,41;470;Vandelay Industries;Europe;2023-02-28;4,8;In Stock
+Electronics;Laptops;Laptops Model 170;ee8820e7;A high-quality laptops suitable for everyday use.;896,6;345;Initech;Latin America;2023-05-03;4,8;In Stock
+Books;Non_Fiction;Non_Fiction Model 692;e50748a1;A high-quality non_fiction suitable for everyday use.;895,83;317;Globex Corp;Latin America;2024-11-04;3,3;In Stock
+Books;Children;Children Model 367;29bccb85;A high-quality children suitable for everyday use.;314,35;366;Umbrella Ltd;Europe;2023-09-29;2,6;In Stock
+Beauty;Hair Care;Hair Care Model 568;a56a459d;A high-quality hair care suitable for everyday use.;481,1;384;Globex Corp;North America;2024-04-14;3,5;In Stock
+Books;Fiction;Fiction Model 175;9af3bda7;A high-quality fiction suitable for everyday use.;811,08;259;Umbrella Ltd;Europe;2023-12-24;4,5;In Stock
+Home & Kitchen;Furniture;Furniture Model 391;ee50606a;A high-quality furniture suitable for everyday use.;245,04;426;Vandelay Industries;Asia-Pacific;2024-09-18;4,9;In Stock
+Beauty;Skin Care;Skin Care Model 783;f0a479eb;A high-quality skin care suitable for everyday use.;1227,49;153;Stark Supply;North America;2025-06-18;1,5;In Stock
+Electronics;Smartphones;Smartphones Model 860;189d96a2;A high-quality smartphones suitable for everyday use.;834,3;139;Umbrella Ltd;Middle East & Africa;2023-08-04;3,9;In Stock
+Home & Kitchen;Furniture;Furniture Model 617;29ebc678;A high-quality furniture suitable for everyday use.;737,91;463;Globex Corp;North America;2024-10-11;2,7;In Stock
+Sports & Outdoors;Fitness Equipment;Fitness Equipment Model 103;9a0910cb;A high-quality fitness equipment suitable for everyday use.;507;66;Stark Supply;Asia-Pacific;2023-06-15;4;In Stock
+Books;Comics;Comics Model 674;987ed1b0;A high-quality comics suitable for everyday use.;24,41;38;Stark Supply;Europe;2024-07-12;1,1;In Stock
+Sports & Outdoors;Camping Gear;Camping Gear Model 540;78265083;A high-quality camping gear suitable for everyday use.;199,89;157;Umbrella Ltd;North America;2025-07-09;2,4;In Stock
+Beauty;Makeup;Makeup Model 782;436e6ce8;A high-quality makeup suitable for everyday use.;163,16;399;Vandelay Industries;Latin America;2024-09-27;4;In Stock
+Home & Kitchen;Appliances;Appliances Model 919;735764be;A high-quality appliances suitable for everyday use.;1218,05;451;Hooli;North America;2023-07-03;3,9;In Stock
+Sports & Outdoors;Team Sports;Team Sports Model 921;1de911e4;A high-quality team sports suitable for everyday use.;1008,16;376;Initech;Asia-Pacific;2023-06-13;4,1;In Stock
+Electronics;Cameras;Cameras Model 993;241c9dcc;A high-quality cameras suitable for everyday use.;67,7;240;Initech;Europe;2025-04-16;4,7;In Stock
+Sports & Outdoors;Cycling;Cycling Model 940;8ea2c515;A high-quality cycling suitable for everyday use.;1195,06;116;Initech;North America;2024-11-06;1,8;In Stock
+Sports & Outdoors;Cycling;Cycling Model 985;8233a5cf;A high-quality cycling suitable for everyday use.;113,44;395;Umbrella Ltd;Asia-Pacific;2024-10-18;3;In Stock
+Beauty;Hair Care;Hair Care Model 128;2a6c6ac3;A high-quality hair care suitable for everyday use.;181,86;496;Umbrella Ltd;Europe;2024-08-17;4,9;In Stock
+Sports & Outdoors;Fitness Equipment;Fitness Equipment Model 211;66fed41d;A high-quality fitness equipment suitable for everyday use.;898,89;176;Stark Supply;Asia-Pacific;2024-03-22;3,4;In Stock
+Books;Fiction;Fiction Model 494;99900edd;A high-quality fiction suitable for everyday use.;1350,26;97;Umbrella Ltd;North America;2024-12-26;2,7;In Stock
+Books;Non_Fiction;Non_Fiction Model 472;19de0ae0;A high-quality non_fiction suitable for everyday use.;652,63;485;Stark Supply;Asia-Pacific;2024-09-30;2,3;In Stock
+Electronics;Headphones;Headphones Model 619;16765421;A high-quality headphones suitable for everyday use.;470,83;209;Umbrella Ltd;Latin America;2024-12-14;2,2;In Stock
+Home & Kitchen;Appliances;Appliances Model 530;cfec1c1e;A high-quality appliances suitable for everyday use.;1000,74;194;Stark Supply;Europe;2024-09-22;3,3;In Stock
+Toys & Games;Board Games;Board Games Model 411;4b3b980c;A high-quality board games suitable for everyday use.;437,5;220;Vandelay Industries;Middle East & Africa;2024-11-01;2,3;In Stock
+Toys & Games;Educational;Educational Model 791;6b2c0737;A high-quality educational suitable for everyday use.;328,42;242;Stark Supply;Europe;2024-11-05;1,3;In Stock
+Books;Children;Children Model 195;4bd82ba3;A high-quality children suitable for everyday use.;1229,45;384;Initech;Asia-Pacific;2023-08-19;4,2;In Stock
+Home & Kitchen;Cookware;Cookware Model 147;831b5ca1;A high-quality cookware suitable for everyday use.;374,82;243;Vandelay Industries;North America;2024-04-11;2,7;In Stock
+Beauty;Makeup;Makeup Model 835;8da92eb9;A high-quality makeup suitable for everyday use.;1047,57;253;Hooli;Europe;2023-06-01;3,6;In Stock
+Electronics;Smartphones;Smartphones Model 897;9dff8496;A high-quality smartphones suitable for everyday use.;643,47;90;Stark Supply;Middle East & Africa;2024-04-20;1,2;In Stock
+Home & Kitchen;Cookware;Cookware Model 567;ef26a13a;A high-quality cookware suitable for everyday use.;208,68;237;Stark Supply;Middle East & Africa;2024-07-26;3,4;In Stock
+Toys & Games;Educational;Educational Model 950;45ba909a;A high-quality educational suitable for everyday use.;1361,21;228;Initech;Latin America;2024-04-05;2;In Stock
+Home & Kitchen;Furniture;Furniture Model 884;23a793a8;A high-quality furniture suitable for everyday use.;1168,74;248;Stark Supply;Europe;2023-10-09;2,8;In Stock
+Beauty;Hair Care;Hair Care Model 340;fa6e61c2;A high-quality hair care suitable for everyday use.;414,86;163;Vandelay Industries;North America;2023-05-22;1,6;In Stock
+Toys & Games;Action Figures;Action Figures Model 823;e3e1b4a5;A high-quality action figures suitable for everyday use.;328,79;212;Hooli;Asia-Pacific;2024-07-09;2,9;In Stock
+Electronics;Laptops;Laptops Model 952;96758ce4;A high-quality laptops suitable for everyday use.;636,01;463;Vandelay Industries;North America;2025-05-27;4,5;In Stock
+Books;Comics;Comics Model 588;bcc8e0df;A high-quality comics suitable for everyday use.;18,79;180;Umbrella Ltd;Latin America;2025-05-23;4,6;In Stock
+Toys & Games;Action Figures;Action Figures Model 599;32ddbca4;A high-quality action figures suitable for everyday use.;336,94;223;Hooli;North America;2024-02-03;2,3;In Stock
+Beauty;Fragrances;Fragrances Model 841;58b069ff;A high-quality fragrances suitable for everyday use.;255,92;239;Initech;Middle East & Africa;2024-06-30;1,1;In Stock
+Toys & Games;Board Games;Board Games Model 185;abd201f8;A high-quality board games suitable for everyday use.;967,7;69;Hooli;Europe;2023-02-21;2;In Stock
+Sports & Outdoors;Camping Gear;Camping Gear Model 565;9c7cfbb7;A high-quality camping gear suitable for everyday use.;497;389;Hooli;Asia-Pacific;2025-02-09;4,8;In Stock
+Toys & Games;Puzzles;Puzzles Model 954;9c532e4b;A high-quality puzzles suitable for everyday use.;132,04;9;Stark Supply;Middle East & Africa;2023-02-23;5;In Stock
+Sports & Outdoors;Camping Gear;Camping Gear Model 765;82ac59c6;A high-quality camping gear suitable for everyday use.;112,24;490;Stark Supply;North America;2025-02-11;1,1;In Stock
+Home & Kitchen;Appliances;Appliances Model 959;6fcf3e48;A high-quality appliances suitable for everyday use.;40,37;78;Initech;Europe;2024-04-29;3,7;In Stock
+Books;Non_Fiction;Non_Fiction Model 576;9aaec6ed;A high-quality non_fiction suitable for everyday use.;1052,2;392;Umbrella Ltd;Europe;2024-09-12;3,4;In Stock
+Beauty;Skin Care;Skin Care Model 896;c062d801;A high-quality skin care suitable for everyday use.;1230,76;493;Umbrella Ltd;North America;2024-08-15;1,1;In Stock
+Sports & Outdoors;Team Sports;Team Sports Model 506;e24ef2bb;A high-quality team sports suitable for everyday use.;1412,79;101;Globex Corp;Middle East & Africa;2024-12-08;4,3;In Stock
+Home & Kitchen;Cookware;Cookware Model 813;eb715918;A high-quality cookware suitable for everyday use.;1161;435;Stark Supply;Middle East & Africa;2025-04-04;1,5;In Stock
+Books;Fiction;Fiction Model 455;a3b6d4e0;A high-quality fiction suitable for everyday use.;803,79;338;Umbrella Ltd;North America;2024-06-02;3,6;In Stock
+Electronics;Cameras;Cameras Model 942;1a3fc420;A high-quality cameras suitable for everyday use.;740,4;221;Umbrella Ltd;Latin America;2024-12-25;1,6;In Stock
+Home & Kitchen;Furniture;Furniture Model 730;3cc499c3;A high-quality furniture suitable for everyday use.;1214,22;275;Hooli;Latin America;2024-03-22;4,3;In Stock
+Books;Children;Children Model 430;ccbd6217;A high-quality children suitable for everyday use.;1279,05;425;Globex Corp;Asia-Pacific;2025-06-21;2,8;In Stock
+Toys & Games;Educational;Educational Model 444;e503ccc6;A high-quality educational suitable for everyday use.;52,76;435;Umbrella Ltd;Europe;2024-05-14;1,8;In Stock
+Sports & Outdoors;Cycling;Cycling Model 386;2102c036;A high-quality cycling suitable for everyday use.;1321,68;359;Umbrella Ltd;Middle East & Africa;2023-01-11;3,1;In Stock
+Home & Kitchen;Cookware;Cookware Model 347;3279903e;A high-quality cookware suitable for everyday use.;1082,91;250;Vandelay Industries;Europe;2024-12-08;2,9;In Stock
+Beauty;Fragrances;Fragrances Model 558;2e6d7586;A high-quality fragrances suitable for everyday use.;1191,47;47;Umbrella Ltd;Europe;2024-02-19;3,8;In Stock
+Sports & Outdoors;Cycling;Cycling Model 584;e61d1539;A high-quality cycling suitable for everyday use.;834,67;176;Hooli;Middle East & Africa;2023-12-05;2,4;In Stock
+Toys & Games;Puzzles;Puzzles Model 413;3efd5ff2;A high-quality puzzles suitable for everyday use.;384,59;61;Stark Supply;Europe;2023-11-20;1,5;In Stock
+Books;Non_Fiction;Non_Fiction Model 296;e699d215;A high-quality non_fiction suitable for everyday use.;332,41;247;Umbrella Ltd;Middle East & Africa;2025-02-17;3,1;In Stock
+Sports & Outdoors;Fitness Equipment;Fitness Equipment Model 952;ebf9dae9;A high-quality fitness equipment suitable for everyday use.;299,24;116;Umbrella Ltd;Europe;2023-11-06;1,1;In Stock
+Books;Non_Fiction;Non_Fiction Model 380;4dfcb2c7;A high-quality non_fiction suitable for everyday use.;77,82;27;Vandelay Industries;Asia-Pacific;2024-12-15;4,8;In Stock
+Beauty;Fragrances;Fragrances Model 205;921b8a73;A high-quality fragrances suitable for everyday use.;1310,35;293;Umbrella Ltd;Latin America;2024-05-05;2,8;In Stock
+Home & Kitchen;Cookware;Cookware Model 358;7d571ef1;A high-quality cookware suitable for everyday use.;1412,18;244;Globex Corp;North America;2024-02-15;3;In Stock
+Books;Fiction;Fiction Model 255;f4f807ab;A high-quality fiction suitable for everyday use.;232,3;288;Umbrella Ltd;North America;2023-09-12;1,5;In Stock
+Toys & Games;Action Figures;Action Figures Model 894;81e898f1;A high-quality action figures suitable for everyday use.;788,63;230;Hooli;Asia-Pacific;2025-05-30;3,4;In Stock
+Toys & Games;Puzzles;Puzzles Model 682;c21a3c8d;A high-quality puzzles suitable for everyday use.;935,33;312;Stark Supply;North America;2025-02-20;1,8;In Stock
+Home & Kitchen;Furniture;Furniture Model 776;994d06f1;A high-quality furniture suitable for everyday use.;130,97;122;Initech;Middle East & Africa;2023-03-18;1,6;In Stock
+Toys & Games;Educational;Educational Model 805;814c6c4e;A high-quality educational suitable for everyday use.;894,78;149;Globex Corp;Europe;2023-10-23;3,8;In Stock
+Beauty;Fragrances;Fragrances Model 172;297ba91f;A high-quality fragrances suitable for everyday use.;1034,2;473;Umbrella Ltd;Middle East & Africa;2024-11-08;4,2;In Stock
+Home & Kitchen;Bedding;Bedding Model 217;94e5e12c;A high-quality bedding suitable for everyday use.;821,4;331;Initech;Asia-Pacific;2025-04-26;1,6;In Stock
+Electronics;Laptops;Laptops Model 911;9ac0c7f5;A high-quality laptops suitable for everyday use.;468,34;383;Vandelay Industries;Asia-Pacific;2024-03-25;1,5;In Stock
+Beauty;Hair Care;Hair Care Model 816;fda15f27;A high-quality hair care suitable for everyday use.;609,74;139;Vandelay Industries;Middle East & Africa;2024-05-20;2,8;In Stock
+Books;Fiction;Fiction Model 542;8ebc8705;A high-quality fiction suitable for everyday use.;1104,46;309;Umbrella Ltd;North America;2023-04-04;1,9;In Stock
+Beauty;Skin Care;Skin Care Model 883;131601d2;A high-quality skin care suitable for everyday use.;1011,7;137;Vandelay Industries;North America;2025-02-20;4;In Stock
+Toys & Games;Educational;Educational Model 384;45b97969;A high-quality educational suitable for everyday use.;280,42;299;Hooli;Latin America;2023-04-04;2,9;In Stock
+Toys & Games;Puzzles;Puzzles Model 428;3522c38b;A high-quality puzzles suitable for everyday use.;1008,5;439;Initech;Asia-Pacific;2024-02-26;3,8;In Stock
+Sports & Outdoors;Team Sports;Team Sports Model 933;461f269d;A high-quality team sports suitable for everyday use.;1143,14;18;Hooli;North America;2023-11-19;2;In Stock
+Electronics;Cameras;Cameras Model 985;29458308;A high-quality cameras suitable for everyday use.;776,75;0;Stark Supply;Middle East & Africa;2024-04-18;2,7;Out of Stock
+Home & Kitchen;Furniture;Furniture Model 737;1e5d837c;A high-quality furniture suitable for everyday use.;1137,1;320;Hooli;North America;2023-07-28;2,1;In Stock
+Home & Kitchen;Furniture;Furniture Model 548;8028188d;A high-quality furniture suitable for everyday use.;1322,46;248;Globex Corp;North America;2024-10-07;3,4;In Stock
+Home & Kitchen;Appliances;Appliances Model 418;15140f9f;A high-quality appliances suitable for everyday use.;830,75;282;Hooli;North America;2023-08-19;5;In Stock
+Electronics;Cameras;Cameras Model 220;d3d167f5;A high-quality cameras suitable for everyday use.;975,09;78;Hooli;Asia-Pacific;2024-06-05;3,8;In Stock
+Toys & Games;Educational;Educational Model 583;7c4c9ff1;A high-quality educational suitable for everyday use.;373,16;282;Initech;Latin America;2023-07-15;4,7;In Stock
+Books;Non_Fiction;Non_Fiction Model 984;06dc4f77;A high-quality non_fiction suitable for everyday use.;114,02;395;Hooli;Asia-Pacific;2025-03-17;3;In Stock
+Electronics;Headphones;Headphones Model 843;9f0740a7;A high-quality headphones suitable for everyday use.;454,85;300;Vandelay Industries;Latin America;2025-06-05;1,6;In Stock
