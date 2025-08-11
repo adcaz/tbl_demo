@@ -51,4 +51,5 @@ if st.button("Enregistrer les modifications"):
     with st.spinner("Enregistrement des modifications...", show_time=True):
         update_gsheet(updated_data, pd.DataFrame(filter_columns, columns=["Filtres"]))
         st.cache_data.clear()  # Clear cache to ensure fresh data is loaded next time
+        load_gsheet()  # Reload data to reflect changes
     st.success("Modifications enregistrées avec succès.")
